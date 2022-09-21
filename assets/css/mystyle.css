@@ -1,0 +1,143 @@
+.bg-header{
+  background: #eaeaea!important;
+  color: #504c4c;
+}
+
+.tmb{
+  display: inline-block;
+  margin-bottom: 0;
+  font-weight: normal;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  padding:6px 12px;
+  border-radius: 5px;
+}
+
+.tmb-sm {
+  padding: 3px 5px;
+  font-size: 12px;
+  line-height: 1.5;
+  border-radius: 5px;
+}
+
+.tmb-info{
+    color: #ffffff;
+    background-color: #5bc0de;
+    border-color: #46b8da;
+}
+
+.tmb-info:hover{
+  background-color: #44abca;
+  color: #ffffff;
+}
+
+.tmb-primary{
+  color: #fff;
+  background-color: #337ab7;
+  border-color: #2e6da4;
+}
+
+.tmb-primary:hover{
+  background-color: #044176;
+  color: #fff;
+}
+
+.tmb-danger{
+  background-color: #f21607;
+  color: #eaeaea;
+  border-color: #033c73;
+}
+
+.tmb-danger:hover{
+  background-color: #bf1b10;
+  color: #eaeaea;
+}
+
+.tmb-success{
+  background-color: #09af00;
+  color: white;
+  border-color: #09af00;
+  border: 1px solid #09af00;
+}
+
+.tmb-success:hover{
+  background-color: #2ea44f;
+  color: #fff;
+  border-color : 1px solid #09af00;
+}
+
+.tmb-success:focus{
+  border-color: #09af00;
+  background-color: #09af00;
+}
+
+.tmb-warning{
+  color: #fff;
+  background-color: #f0ad4e;
+  border-color: #eea236;
+}
+
+.tmb-warning:hover{
+    color: #fff;
+    background-color: #d19848;
+    border-color: #eea236;
+}
+
+.alert-success{
+  background-color: #09af00;
+  color: #fff;
+}
+
+.alert-error{
+  background-color: #ce1d10;
+  color: #eaeaea;
+}
+
+.alert-warn{
+  background-color: #ebbc00;
+  color: #272626;
+}
+
+/* style custom */
+
+.text-bold {
+  font-weight: 700;
+}
+
+.table-bordered {
+  border: 1px none #fff;
+}
+
+.pcoded[theme-layout="vertical"] .pcoded-navbar[active-item-theme="theme1"] .pcoded-item>li.active>a,
+.pcoded[theme-layout="vertical"] .pcoded-navbar[active-item-theme="theme1"] .pcoded-item>li.active:hover>a,
+.pcoded[theme-layout="vertical"] .pcoded-navbar[active-item-theme="theme1"] .pcoded-item>li.pcoded-trigger>a,
+.pcoded[theme-layout="vertical"] .pcoded-navbar[active-item-theme="theme1"] .pcoded-item>li.pcoded-trigger:hover>a {
+  border-left: 6px solid #42a5f5;
+}
+
+.pcoded[theme-layout="vertical"] .pcoded-navbar[active-item-theme="theme1"] .pcoded-item li .pcoded-submenu {
+  border-left: 6px solid #42a5f5;
+}
+
+/* custom modal */
+
+.modal-dialog-scrollable .modal-body::-webkit-scrollbar{
+  width: 12px;
+}
+
+.modal-dialog-scrollable .modal-body::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.3);
+}
+ 
+.modal-dialog-scrollable .modal-body::-webkit-scrollbar-thumb {
+  background-color: #839AA8;
+  border-radius: 5px;
+}
+
+.modal-dialog-scrollable .modal-body {
+    max-height: calc(100vh - 210px);
+    overflow-y: auto;
+}

@@ -1,0 +1,16 @@
+[22-Apr-2022 16:08:20 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/pilkebem/public_html/admin/index.php on line 13
+[22-Apr-2022 16:08:20 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/pilkebem/public_html/admin/template/sidebar/home.php on line 14
+[22-Apr-2022 16:11:43 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/pilkebem/public_html/admin/index.php on line 13
+[22-Apr-2022 16:11:43 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/pilkebem/public_html/admin/template/sidebar/home.php on line 14
+[22-Apr-2022 16:14:50 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/pilkebem/public_html/admin/index.php on line 13
+[22-Apr-2022 16:14:50 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/pilkebem/public_html/admin/template/sidebar/home.php on line 14
+[22-Apr-2022 17:24:39 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/pilkebem/public_html/admin/index.php on line 13
+[22-Apr-2022 17:24:39 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/pilkebem/public_html/admin/template/sidebar/kandidat.php on line 14
+[22-Apr-2022 21:21:59 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/pilkebem/public_html/admin/index.php on line 13
+[22-Apr-2022 21:21:59 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/pilkebem/public_html/admin/template/sidebar/home.php on line 14
+[22-Apr-2022 21:44:39 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/pilkebem/public_html/admin/index.php on line 13
+[22-Apr-2022 21:44:39 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/pilkebem/public_html/admin/template/sidebar/home.php on line 14
+[23-Apr-2022 05:19:06 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/pilkebem/public_html/admin/index.php on line 13
+[23-Apr-2022 05:19:06 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/pilkebem/public_html/admin/template/sidebar/dtk.php on line 14
+[23-Apr-2022 05:22:02 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/pilkebem/public_html/admin/index.php on line 13
+[23-Apr-2022 05:22:02 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/pilkebem/public_html/admin/template/sidebar/home.php on line 14

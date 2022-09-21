@@ -1,0 +1,1 @@
+<input type="text" name="password_baru" maxlength="5" value="<?= rand(11111,99999)?>" class="form-control">
