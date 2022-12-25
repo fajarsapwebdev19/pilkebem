@@ -70,8 +70,10 @@
 </html>
 <?php
 $html = ob_get_contents();
-ob_end_clean();
+
 $dompdf->loadHtml($html);
+
+ob_end_clean();
 $dompdf->setPaper('A4','potrait');
 $dompdf->render();
 $title = "Daftar Hadir Peserta Pemilihan Ketua BEM";

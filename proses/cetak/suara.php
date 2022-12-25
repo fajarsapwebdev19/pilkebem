@@ -1,5 +1,6 @@
 <?php
   require '../../dompdf/autoload.inc.php';
+  require '../../dompdf/vendor/autoload.php';
   session_start();
 
   if(empty($_SESSION['login']))

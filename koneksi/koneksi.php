@@ -4,7 +4,7 @@
   // koneksi ke database local
   $SERVER = 'localhost';
   $USERNAME = 'root';
-  $PASSWORD = 'root';
+  $PASSWORD = '';
   $DB = 'e_pilkebem';
 
   $koneksi = mysqli_connect($SERVER,$USERNAME,$PASSWORD,$DB);
